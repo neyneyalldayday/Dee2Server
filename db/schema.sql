@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS destiny_pal;
+
+CREATE DATABASE destiny_pal;
